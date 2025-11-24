@@ -105,10 +105,9 @@ _Describe dataset scale, modality, licensing, and download links._
 - TBD
 
 ## Contributing
-Contributions are welcome! To add a resource:
+Contributions are welcome! To add a resource, you can:
 1. Open a pull request with a clear title and short description of the change.
-2. Place new entries in the appropriate section, sorted newest-first where applicable.
-3. Include links to papers, code, and official assets, and note licenses when relevant.
+2. Open an issue with a clear title and short description.
 
 ## License
 This project is licensed under the [MIT License](LICENSE) unless otherwise noted by individual resources.
