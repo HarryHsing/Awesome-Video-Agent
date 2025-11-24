@@ -95,13 +95,10 @@ _Organize papers chronologically (newest first) with links to code if available.
 | [VMEvalKit](https://arxiv.org/pdf/2407.11691.pdf)                                                                                                 | 2024-07      | [open-compass/VLMEvalKit](https://github.com/open-compass/VLMEvalKit)                     |
 
 
-
 ## Evaluation and Benchmarks
-_List benchmarks with key metrics, task coverage, and official evaluation scripts._
 - TBD
 
 ## Datasets
-_Describe dataset scale, modality, licensing, and download links._
 - TBD
 
 ## Contributing
