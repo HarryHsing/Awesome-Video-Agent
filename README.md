@@ -24,9 +24,6 @@ This repository collects research on **multimodal video agents** — systems tha
 - [Contributing](#contributing): How to add related works.
 - [License](#license)
 
-- ![GitHub Repo stars](https://img.shields.io/github/stars/zjuruizhechen/Awesome-Video-Agent?style=social)
-
-
 ## Updates
 - **2025-11-24**: Repository released.
 
