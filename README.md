@@ -116,6 +116,7 @@ _Organize papers chronologically (newest first) with links to code if available.
 Contributions are welcome! To add a resource, you can:
 1. Open a pull request with a clear title and short description of the change.
 2. Open an issue with a clear title and short description.
+3. If you spot any mistakes, please feel free to open an issue — and we apologize in advance for any inconvenience.
 
 ## License
 This project is licensed under the [MIT License](LICENSE) unless otherwise noted by individual resources.
