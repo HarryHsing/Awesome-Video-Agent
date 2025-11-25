@@ -10,7 +10,11 @@ This repository collects research on **multimodal video agents** — systems tha
 - **Connect video reasoning with generation**, including:
   - Video generation models evaluated for reasoning ability, and unified benchmarks that treat generation as a reasoning paradigm.
 
-![Framework Overview](illustration.png)
+<p align="center">
+  <img src="illustration.png" alt="A unified framework for multimodal video agents" />
+  <br />
+  <em>A Unified Framework for Multimodal Video Agents</em>
+</p>
  
 ## Table of Contents
 - [Updates](#updates): Current progress.
