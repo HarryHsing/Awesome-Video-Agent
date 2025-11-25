@@ -25,7 +25,7 @@ This repository collects research on **multimodal video agents** — systems tha
 - [License](#license)
 
 ## Updates
-- **2025-11-24**: Repository released.
+- **2025-11-25**: Repository released.
 
 ## Papers
 _Organize papers chronologically (newest first) with links to code if available._
